@@ -31,5 +31,6 @@ public class Project_final {
        System.out.println(" ");
        System.out.println("Compra total: "+ct);
        System.out.println("Compra promedio: "+cp);
+       System.out.println("Modificando codigo");
     }//fin del metodo  
 }//fin del programa
